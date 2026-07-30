@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mokdong-karaoke-note.aga-clinic.space/sitemap.xml
+Sitemap: https://mokdong-karaoke-note.aga-clinic.space/sitemap-pages.xml
